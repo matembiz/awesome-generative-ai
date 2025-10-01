@@ -1,195 +1,196 @@
-# Generative AI Discoveries
+# Открытия в области Generative AI
 
-Welcome to the Discoveries list, a special showcase of up-and-coming Generative AI projects. This collection celebrates the diversity and creativity within the Generative AI community. If you're looking for the main list, you can find it [here](README.md).
+Добро пожаловать в список «Открытия» — специальная выставка перспективных проектов в области Генеративного ИИ. Эта коллекция отражает разнообразие и креативность сообщества Generative AI. Если вы ищете основной список, вы можете найти его [здесь](README.md).
 
-Before submitting your suggestions, please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure your entries align with the criteria for the Discoveries List.
+Перед тем как предложить свои варианты, пожалуйста, ознакомьтесь с [Руководством по внесению вклада](CONTRIBUTING.md), чтобы убедиться, что ваши записи соответствуют критериям Списка открытий.
 
-## Contents
+## Содержание
 
-- [Recommended reading](#recommended-reading)
-- [Text](#text)
-- [Code](#code)
-- [Agents](#agents)
-- [Image](#image)
-- [Video](#video)
-- [Audio](#audio)
-- [Other](#other)
-- [Learning resources](#learning-resources)
-- [More lists](#more-lists)
-- [Autonomous agents](#autonomous-agents)
+- [Рекомендуемая литература](#рекомендуемая-литература)
+- [Текст](#текст)
+- [Код](#код)
+- [Агенты](#агенты)
+- [Изображения](#изображения)
+- [Видео](#видео)
+- [Аудио](#аудио)
+- [Другое](#другое)
+- [Обучающие ресурсы](#обучающие-ресурсы)
+- [Другие списки](#другие-списки)
+- [Автономные агенты](#автономные-агенты)
 
-## Recommended reading
+## Рекомендуемая литература
 
-### Milestones
+### Вехи
 
-## Text
+## Текст
 
-### Models
+### Модели
 
-- [SambaNova](https://sambanova.ai/) - Full stack generative AI platform, from chip to model, designed for enterprise and government entities and powered by a dataflow architecture.
+- [SambaNova](https://sambanova.ai/) — Полноценная платформа генеративного ИИ, от чипа до модели, разработанная для предприятий и государственных структур и работающая на основе dataflow-архитектуры.
 
-### Chatbots
+### Чат-боты
 
-- [PageLines](https://www.pagelines.com) - AI Chat Agents to Enhance Websites 
-- [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) - An AI-powered assistant that can write essays on your iPhone.
-- [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
-- [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
-- [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
-- [AskVideo](https://www.askvideo.ai) - Chat with any Youtube Video.
-- [AskPPT](https://www.askppt.io/) - Chat with any Presentation.
-- [Broken Bear](https://brokenbear.com) - An AI Teddy Bear that you can vent to for free, online, and anonymously.
-- [GPTHelp.ai](https://gpthelp.ai/) - AI customer support chatbot for your website.
-- [Character Gateway](https://charactergateway.com/) - Create your own AI friends with 300+ models.
+- [PageLines](https://www.pagelines.com) — AI-чат-агенты для улучшения веб-сайтов.
+- [GPT for iPhone](https://apps.apple.com/app/apple-store/id1669558411?pt=94765902&ct=awesomegenerativeai&mt=8) — ИИ-помощник, который может писать эссе на вашем iPhone.
+- [Netwrck.com](https://netwrck.com/) — Netwrck.com позволяет общаться с ИИ и создавать AI-персонажей.
+- [Text-Generator.io](https://text-generator.io) — Мультимодальные AI-API для создания текста и аудио из текста/изображений/речи.
+- [Yona.ai](https://yona.ai) — Общайтесь с ИИ-копиями себя или близких для исцеления, ностальгии и самоанализа.
+- [AskVideo](https://www.askvideo.ai) — Общайтесь с любым видео на YouTube.
+- [AskPPT](https://www.askppt.io/) — Общайтесь с любой презентацией.
+- [Broken Bear](https://brokenbear.com) — ИИ-плюшевый мишка, которому можно бесплатно, онлайн и анонимно «излить душу».
+- [GPTHelp.ai](https://gpthelp.ai/) — ИИ-чат-бот для поддержки клиентов на вашем сайте.
+- [Character Gateway](https://charactergateway.com/) — Создайте своих собственных AI-друзей с более чем 300 моделями.
 
-### Custom interfaces
+### Пользовательские интерфейсы
 
-### Search engines
+### Поисковые системы
 
-### Local search engines
+### Локальные поисковые системы
 
-- [Rewind](https://www.rewind.ai/) - Rewind captures everything you've seen on your Mac and iPhone and makes it searchable with AI.
+- [Rewind](https://www.rewind.ai/) — Rewind записывает всё, что вы видели на вашем Mac и iPhone, и делает это доступным для поиска с помощью ИИ.
 
-### Writing assistants
+### Помощники в написании текста
 
-- [Yarnit](https://www.yarnit.app/) - Yarnit, a digital storytelling application that uses generative AI to storyboard, research and design your ideas.
-- [AI Story Generator](https://www.aistorygenerator.org) - Free AI-powered story generator that writes creative short stories for you on any topic.
-- [NeuronWriter](https://www.neuronwriter.com/) - AI writer and NLP content editor with SEO focus.
-- [Regie.ai](https://regie.ai) - Automation of prospect research, message personalization, and email analysis.
-- [Capitol AI](https://www.capitol.ai/) - A smart document creator with Capitol AI's fusion of smart research, data, and AI.
-- [AI Humanize](https://aihumanize.io/) - Humanize AI transforms AI content into natural, human-like writing that bypasses all AI detection.
-- [Elephas](https://elephas.app/) - Personal AI writing assistant for the Mac.
-- [Taplio](https://taplio.com/) - All-in-one AI-powered LinkedIn tool.
-- [Yomu](https://www.yomu.ai) - AI writing assistant for students and academics.
+- [Yarnit](https://www.yarnit.app/) — Yarnit, приложение для цифрового сторителлинга, которое использует генеративный ИИ для создания раскадровки, исследования и дизайна ваших идей.
+- [AI Story Generator](https://www.aistorygenerator.org) — Бесплатный генератор рассказов на основе ИИ, который пишет креативные короткие истории на любую тему.
+- [NeuronWriter](https://www.neuronwriter.com/) — AI-писатель и NLP-редактор контента с фокусом на SEO.
+- [Regie.ai](https://regie.ai) — Автоматизация исследования потенциальных клиентов, персонализации сообщений и анализа электронной почты.
+- [Capitol AI](https://www.capitol.ai/) — Умный создатель документов с объединением умного исследования, данных и ИИ от Capitol AI.
+- [AI Humanize](https://aihumanize.io/) — Humanize AI преобразует AI-контент в естественный, похожий на человеческий текст, который обходит все системы обнаружения ИИ.
+- [Elephas](https://elephas.app/) — Персональный AI-помощник для письма на Mac.
+- [Taplio](https://taplio.com/) — Многофункциональный инструмент для LinkedIn на основе ИИ.
+- [Yomu](https://www.yomu.ai) — AI-помощник для письма для студентов и академиков.
 
-### ChatGPT extensions
+### Расширения для ChatGPT
 
-- [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) - Easily customize AI chatbots like ChatGPT and Google Gemini for better responses.
-- [https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb](AI Summary Helper) - Get AI summaries of web content. Use Send To Kindle for reading on the go. [#opensource](https://github.com/philffm/ai-summary-helper)
-- [YouTube Summary by TubeSum](https://tubesum.com/) — Summarize YouTube videos, extract key insights, share these summaries, and navigate to crucial sections using timestamps.
+- [AI Character for GPT](https://chromewebstore.google.com/detail/ai-character-for-gpt/daoeioifimkjegafelcaljboknjkkohh) — Легко настраивайте AI-чат-боты, такие как ChatGPT и Google Gemini, для получения лучших ответов.
+- [https://chromewebstore.google.com/detail/ai-summary-helper-openai/hldbejcjaedipeegjcinmhejdndchkmb](AI Summary Helper) — Получайте AI-резюме веб-контента. Используйте Send To Kindle для чтения в дороге. [#opensource](https://github.com/philffm/ai-summary-helper)
+- [YouTube Summary by TubeSum](https://tubesum.com/) — Суммируйте видео YouTube, извлекайте ключевые идеи, делитесь этими резюме и переходите к важным разделам с помощью временных меток.
 
-### Productivity
+### Продуктивность
 
-- [Ready to Send](https://getreadytosend.com/) - Auto-generated draft email replies for Gmail.
-- [Kadoa](https://kadoa.com) - Automate data extraction with AI, so you don't have to manually build scrapers, mappers, or classifiers.
-- [MagicSlides.app](https://www.magicslides.app/) - Ideas to professional presentations in seconds, with info from Wikipedia, Google with AI images.
-- [MindMac](https://mindmac.app) - Feature-rich & privacy-first native ChatGPT app for macOS to use different chatbots all in one place.
-- [Agenda Hero](https://agendahero.com) - Generate beautiful, structured, shareable schedules with AI.
-- [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) - AI formula generator for Google Sheets.
-- [SageCollab](https://sagecollab.com/) - SageCollab brings team collaboration features to generative AI.
+- [Ready to Send](https://getreadytosend.com/) — Автоматически сгенерированные черновики ответов по электронной почте для Gmail.
+- [Kadoa](https://kadoa.com) — Автоматизируйте извлечение данных с помощью ИИ, чтобы вам не приходилось вручную создавать скраперы, мапперы или классификаторы.
+- [MagicSlides.app](https://www.magicslides.app/) — От идей до профессиональных презентаций за секунды, с информацией из Википедии, Google и с AI-изображениями.
+- [MindMac](https://mindmac.app) — Многофункциональное и ориентированное на конфиденциальность нативное приложение ChatGPT для macOS для использования различных чат-ботов в одном месте.
+- [Agenda Hero](https://agendahero.com) — Создавайте красивые, структурированные, доступные для общего доступа расписания с помощью ИИ.
+- [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator) — Генератор формул для Google Sheets на основе ИИ.
+- [SageCollab](https://sagecollab.com/) — SageCollab добавляет функции командного сотрудничества в генеративный ИИ.
 
-### Meeting assistants
-- [Goelo](https://www.goelo.com/) - Goelo helps sales teams automatically fill their CRM by recording meetings to create summaries and generate a knowledge base.
+### Помощники для встреч
+- [Goelo](https://www.goelo.com/) — Goelo помогает командам продаж автоматически заполнять их CRM, записывая встречи для создания сводок и генерации базы знаний.
 
-### Academia
+### Академическая сфера
 
-### Leaderboards
+### Таблицы лидеров
 
-### Other text generators
+### Другие генераторы текста
 
-- [Never Jobless](https://neverjobless.com/) - Maximize your interview chances with AI-powered LinkedIn messaging.
-- [AI Poem Generator](https://aipoemgenerator.cc/) - Create stunning poems with the help of artificial intelligence, tailored to your themes and ideas.
+- [Never Jobless](https://neverjobless.com/) — Максимизируйте свои шансы на собеседовании с помощью AI-сообщений в LinkedIn.
+- [AI Poem Generator](https://aipoemgenerator.cc/) — Создавайте потрясающие стихи с помощью искусственного интеллекта, адаптированные к вашим темам и идеям.
 
-## Coding
+## Программирование
 
-### Coding Assistants
+### Помощники по коду
 
-- [Safurai](https://www.safurai.com/) - Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.
-- [AI Code Converter](https://aicodeconvert.com/) - AI Code Converter simplifies coding with AI by integrating AI Code Translator and AI Code Generator.
+- [Safurai](https://www.safurai.com/) — Safurai — это AI-помощник по коду, который экономит ваше время при изменении, оптимизации и поиске кода.
+- [AI Code Converter](https://aicodeconvert.com/) — AI Code Converter упрощает кодирование с помощью ИИ, интегрируя AI Code Translator и AI Code Generator.
 
-### Developer tools
+### Инструменты для разработчиков
 
-- [Makelog](https://makelog.com/gpt3) - Automatically generate changelog posts using GPT-3 and Jira, Linear, GitHub, Shortcut, and Asana issues, tasks, and pull requests.
-- [Wilco Sierra](https://trywilco.com/sierra) - A platform that generates engineering challenges for software engineers using AI.
-- [Vectara](https://vectara.com/) - A Generative AI product platform for developers. 
-- [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) - Full stack AI voice chatbot (STT, LLM, TTS) with integrations to Auth0, OpenAI, Google Cloud and Stripe. #opensource
-- [ZZZ Code AI](https://zzzcode.ai) - AI-powered free website to get any programming question answered or code generated.
-- [AiDA](https://www.bookmark.com/ai-website-builder) - Future proof your website with the power of AI. AiDA eliminates 90 percent of the pain points associated with web design.
-- [GitPoet](https://www.gitpoet.dev) - Generate accurate and meaningful commit messages based on your git diff.
-- [Framer AI](https://www.framer.com/ai) - Generate web sites using AI.
-- [Electron-BitNet](https://github.com/grctest/Electron-BitNet) - UI for running Microsoft's BitNet via Electron, React & Astro. #opensource
-- [GPTRouter](https://gpt-router.writesonic.com/) - An open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models.
-- [Ragie](https://www.ragie.ai/) - A fully managed RAG-as-a-Service platform for developers.
+- [Makelog](https://makelog.com/gpt3) — Автоматически генерируйте записи журнала изменений с помощью GPT-3 и задач, пул-реквестов из Jira, Linear, GitHub, Shortcut и Asana.
+- [Wilco Sierra](https://trywilco.com/sierra) — Платформа, которая генерирует инженерные задачи для разработчиков программного обеспечения с использованием ИИ.
+- [Vectara](https://vectara.com/) — Платформа продуктов Генеративного ИИ для разработчиков.
+- [Gdańsk AI](https://github.com/jmaczan/gdansk-ai) — Полнофункциональный голосовой AI-чат-бот (STT, LLM, TTS) с интеграциями Auth0, OpenAI, Google Cloud и Stripe. #opensource
+- [ZZZ Code AI](https://zzzcode.ai) — Бесплатный веб-сайт на основе ИИ для получения ответов на любые вопросы по программированию или генерации кода.
+- [AiDA](https://www.bookmark.com/ai-website-builder) — Обеспечьте будущее вашего сайта с помощью силы ИИ. AiDA устраняет 90% проблем, связанных с веб-дизайном.
+- [GitPoet](https://www.gitpoet.dev) — Генерируйте точные и содержательные сообщения коммитов на основе вашего git diff.
+- [Framer AI](https://www.framer.com/ai) — Создавайте веб-сайты с помощью ИИ.
+- [Electron-BitNet](https://github.com/grctest/Electron-BitNet) — UI для запуска Microsoft's BitNet через Electron, React & Astro. #opensource
+- [GPTRouter](https://gpt-router.writesonic.com/) — API-шлюз с открытым исходным кодом для LLM, который предлагает универсальный API для 30+ LLM, моделей для работы с изображениями и vision.
+- [Ragie](https://www.ragie.ai/) — Полностью управляемая платформа RAG-as-a-Service для разработчиков.
 
-### Playgrounds
+### Песочницы
 
-### Local LLM Deployment
+### Локальное развертывание LLM
 
-## Agents
+## Агенты
 
-### Autonomous agents
+### Автономные агенты
 
-- [SiteGPT](https://sitegpt.ai/) - Make AI your expert customer support agent.
+- [SiteGPT](https://sitegpt.ai/) — Сделайте ИИ вашим экспертом по поддержке клиентов.
 
-## Image
+## Изображения
 
-### Models
+### Модели
 
-### Services
+### Сервисы
 
-- [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) - Create art in seconds using your iPhone.
-- [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) - Create anime art in seconds using your iPhone.
-- [ArtSmart](https://artsmart.ai/) - AI image generator that produces realistic images based on text and image prompts, featuring outpainting, pose control, and personalized avatar generation capabilities.
-- [joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image Toolset with GANs and Diffusion for Real-World Applications.
-- [Picwish](https://picwish.com/) - Use PicWish AI photo editor to remove background, unblur image, and do more image editing.
-- [Human Generator](https://generated.photos/human-generator/) - Create hyperrealistic full-body photos of people in real time.
-- [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) - Designs personalized logos from sketches.
+- [AI Art Generator iOS App](https://apps.apple.com/app/apple-store/id1644315225?pt=94765902&ct=awsomegenerativeai&mt=8) — Создавайте artwork за секунды с помощью вашего iPhone.
+- [AI Anime Art Generator iOS App](https://apps.apple.com/app/apple-store/id6445922691?pt=94765902&ct=awesomenegertiveai&mt=8) — Создавайте аниме-арт за секунды с помощью вашего iPhone.
+- [ArtSmart](https://artsmart.ai/) — Генератор AI-изображений, который создает реалистичные изображения на основе текстовых и графических промптов, с возможностями дополнения изображения (outpainting), контроля позы и генерации персональных аватаров.
+- [joliGEN](https://github.com/jolibrain/joliGEN) — Набор инструментов для генерации AI-изображений с GAN и Diffusion для реальных приложений.
+- [Picwish](https://picwish.com/) — Используйте AI-фоторедактор PicWish для удаления фона, устранения размытия изображения и выполнения других операций редактирования.
+- [Human Generator](https://generated.photos/human-generator/) — Создавайте гиперреалистичные полноростовые фотографии людей в реальном времени.
+- [LogoGPT](https://chatgpt.com/g/g-z61XG6t54-logogpt) — Создает персонализированные логотипы из набросков.
 
-### Graphic design
+### Графический дизайн
 
-- [Framer AI](https://www.framer.com/features/ai/) - Enhance your website using Framer's AI-powered tools.
-- [PPT.AI](https://ppt.ai/) - Create professional presentations in minutes.
+- [Framer AI](https://www.framer.com/features/ai/) — Улучшите свой веб-сайт с помощью инструментов Framer на основе ИИ.
+- [PPT.AI](https://ppt.ai/) — Создавайте профессиональные презентации за минуты.
 
-### Image libraries
+### Библиотеки изображений
 
-### Model libraries
+### Библиотеки моделей
 
-### Stable Diffusion resources
+### Ресурсы по Stable Diffusion
 
-## Video
-- [Twelve Labs](https://twelvelabs.io/) - Helping developers build programs that can see, listen, and understand the world through video understanding.
-- [invideo AI](https://invideo.io/) - Turn ideas into videos.
+## Видео
+- [Twelve Labs](https://twelvelabs.io/) — Помогаем разработчикам создавать программы, которые могут видеть, слушать и понимать мир через понимание видео.
+- [invideo AI](https://invideo.io/) — Превращайте идеи в видео.
 
-### Avatars
+### Аватары
 
-### Animation
+### Анимация
 
-## Audio
+## Аудио
 
-### Text-to-speech
+### Текст-в-речь
 
-### Speech-to-text
+### Речь-в-текст
 
-### Music
-- [Boomy](https://boomy.com/) - Create original songs in seconds.
-- [Soundraw](https://soundraw.io/) - Create your beats with the power of AI.
+### Музыка
+- [Boomy](https://boomy.com/) — Создавайте оригинальные песни за секунды.
+- [Soundraw](https://soundraw.io/) — Создавайте свои биты с помощью силы ИИ.
 
-## Other
+## Другое
 
-- [Deploy Prompt](https://deployprompt.com/) - A tool for prompt engineering that allows you to create and share prompts.
-- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) - Framework, foundational models, tools for use cases in finance.
-- [SmoothRide](https://smoothri.de/) - AI tool for collaborative urban development, enhancing citizen input and municipal decision-making.
-- [RIZZ AI](https://rizzai.ai/) - AI dating assistant for mastering Tinder with humor and psychology.
-- [Shotstack Workflows](https://shotstack.io/product/workflows/) - No-code, automation workflow tool for building Generative AI media applications.
-- [Aispect](https://aispect.io/) - Turn live audio into stunning visuals.
-- [PressPulse AI](https://www.presspulse.ai/) - Get personalized media coverage leads every morning.
-- [GummySearch](https://gummysearch.com/) - AI-based customer research via Reddit.
-- [Promptimize](https://www.promptimizeai.com/) - A browser extension that gives anyone the powers of an expert prompt engineer.
+- [Deploy Prompt](https://deployprompt.com/) — Инструмент для инженерии промптов, который позволяет создавать и делиться промптами.
+- [GenerativeAI4Finance](https://github.com/GenerativeAI4Finance) — Фреймворк, базовые модели, инструменты для использования в финансах.
+- [SmoothRide](https://smoothri.de/) — Инструмент ИИ для совместного городского развития, улучшающий участие граждан и принятие решений муниципалитетами.
+- [RIZZ AI](https://rizzai.ai/) — ИИ-помощник для знакомств для освоения Tinder с юмором и психологией.
+- [Shotstack Workflows](https://shotstack.io/product/workflows/) — No-code инструмент для автоматизации рабочих процессов для создания медиа-приложений на основе Генеративного ИИ.
+- [Aispect](https://aispect.io/) — Превращайте живой звук в потрясающие визуальные эффекты.
+- [PressPulse AI](https://www.presspulse.ai/) — Получайте персонализированные leads для медиа-освещения каждое утро.
+- [GummySearch](https://gummysearch.com/) — Исследование клиентов на основе ИИ через Reddit.
+- [Promptimize](https://www.promptimizeai.com/) — Расширение для браузера, которое дает любому пользователю силы эксперта по инженерии промптов.
 
-## Learning resources
+## Обучающие ресурсы
 
-- [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) - A book about techniques and best practices for getting the most out of AI-powered coding using tools like Copilot and ChatGPT.
-- [Scrimba JavaScript courses on AI](https://scrimba.com/allcourses?topic=ai) - An AI Engineer Path for JavaScript developers to get into building AI powered apps
-- [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming) - A book by Leo Porter and Daniel Zingaro. Manning Publications, 2023.
-- [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) - This book gives you the tools you need to work better, faster, and smarter with AI.  
-- [AI-Assisted Testing](https://www.manning.com/books/software-testing-with-generative-ai) - A book about software testing with Large Language Model (LLM)-based AI.
-- [Build a Website with ChatGPT](https://www.manning.com/books/build-a-website-with-chatgpt) - A web development beginner's guide to zero-coding web development using generative AI.
+- [The AI-Powered Developer](https://www.manning.com/books/the-ai-powered-developer) — Книга о методах и лучших практиках для максимального использования возможностей AI-программирования с помощью таких инструментов, как Copilot и ChatGPT.
+- [Курсы Scrimba по JavaScript и ИИ](https://scrimba.com/allcourses?topic=ai) — Путь AI-инженера для JavaScript-разработчиков, желающих создавать приложения на основе ИИ.
+- [Learn AI-Assisted Python Programming](https://www.manning.com/books/learn-ai-assisted-python-programming) — Книга Лео Портера и Дэниела Зингаро. Manning Publications, 2023.
+- [The Complete Obsolete Guide to Generative AI](https://www.manning.com/books/the-complete-obsolete-guide-to-generative-ai) — Эта книга дает вам инструменты, необходимые для работы лучше, быстрее и умнее с ИИ.
+- [AI-Assisted Testing](https://www.manning.com/books/software-testing-with-generative-ai) — Книга о тестировании программного обеспечения с использованием Large Language Model (LLM)-based AI.
+- [Build a Website with ChatGPT](https://www.manning.com/books/build-a-website-with-chatgpt) — Руководство для начинающих по веб-разработке без программирования с использованием генеративного ИИ.
 
-## More lists
+## Другие списки
 
-- [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers.
-- [Ai Finesse](https://www.aifinesse.com/) - Curated lists of AI applications and AI models with links and useful information.
-- [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) - Papers & code about reliable reasoning and reason-responsive decision-making in LLMs.
-- [The Rundown AI List](https://www.rundown.ai/tools) - AI tools organized and categorized.
-- [GPT Tracker](https://gptstracker.com/) - Discover 1000+ GPTs & AI Tools.
+- [Awesome Vector Search](https://github.com/currentslab/awesome-vector-search) — Подборка библиотек, сервисов и научных статей, связанных с векторным поиском.
+- [Ai Finesse](https://www.aifinesse.com/) — Курируемые списки AI-приложений и AI-моделей со ссылками и полезной информацией.
+- [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting) — Статьи и код о надежных рассуждениях и ответственных на решениях в LLM.
+- [The Rundown AI List](https://www.rundown.ai/tools) — AI-инструменты, организованные и категоризированные.
+- [GPT Tracker](https://gptstracker.com/) — Откройте для себя 1000+ GPT и AI-инструментов.
 
-### Lists on ChatGPT
+### Списки на ChatGPT
+```
