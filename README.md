@@ -392,6 +392,7 @@ MCP Hub позволяет создавать и подключать MCP-сер
 
 ## Ресурсы для обучения
 
+- [Курсы искусственный интеллект на Яндекс Практикуме](https://practicum.yandex.com/catalog/iskusstvennyj-intellekt/paid/) - Курсы искусственный интеллект на Яндекс Практикуме
 - [Learn Prompting](https://learnprompting.org/) - Бесплатный курс с открытым исходным кодом по общению с искусственным интеллектом.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Руководство и ресурсы по инженерии промптов.
 - [ChatGPT prompt engineering for developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Короткий курс от Isa Fulford (OpenAI) и Andrew Ng (DeepLearning.AI).
